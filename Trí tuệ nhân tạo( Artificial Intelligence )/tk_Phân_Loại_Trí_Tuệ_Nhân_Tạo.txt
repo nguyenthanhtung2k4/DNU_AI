@@ -1,0 +1,5 @@
+- Trí tuệ nhân tạo được phân loại gồm 4 loại:
+	+ Reactive Machines (Bộ máy phản ứng): Đây là loại AI chỉ có khả năng phản ứng với các tín hiệu đầu vào mà không có khả năng lưu trữ thông tin hay học hỏi từ kinh nghiệm. Ví dụ điển hình là chương trình cờ vua Deep Blue của IBM, có khả năng đánh bại kỳ thủ Garry Kasparov12.
+	+ Limited Memory (Bộ nhớ hạn chế): Loại AI này có khả năng học hỏi từ một lượng thông tin hạn chế trong quá khứ để đưa ra quyết định hiện tại. Một ứng dụng tiêu biểu là xe tự lái, nơi mà hệ thống chỉ lưu trữ thông tin cần thiết như vị trí và tốc độ12.
+	+ Theory of Mind (Lý thuyết tâm lý): Đây là loại AI có khả năng hiểu và suy luận về tư duy, ý định và trạng thái tâm lý của con người. Mặc dù vẫn đang trong giai đoạn nghiên cứu, AI này hứa hẹn sẽ cải thiện khả năng tương tác với con người12.
+	+ Self-aware (Tự nhận thức): Đây là giai đoạn cao nhất của AI, nơi máy móc có khả năng nhận thức về bản thân và môi trường xung quanh. Tuy nhiên, loại AI này vẫn chỉ tồn tại trên lý thuyết và chưa được hiện thực hóa12.
